@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>local.hyper.SASEPopupCloser</string>
+<key>CFBundleName</key><string>SASE Popup Closer</string>
+<key>CFBundleDisplayName</key><string>SASE Popup Closer</string>
+<key>CFBundleExecutable</key><string>SASEPopupCloser</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>LSUIElement</key><true/>
+<key>LSMinimumSystemVersion</key><string>13.0</string>
+<key>NSAccessibilityUsageDescription</key><string>仅自动点击 SASE 服务授权窗口的关闭按钮，不授予 SASE 任何权限。</string>
+</dict></plist>
